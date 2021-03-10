@@ -1,0 +1,69 @@
+.centro{
+  text-align: center;
+}
+
+.img-logo{
+  width: 220px;
+}
+
+body{
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sottotitolo{
+  font-family: "georgia", times, serif;
+  font-size:30px;
+  color: limegreen;
+}
+
+.main{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  width: 50%;
+  margin: 20px auto 40px;
+  padding: 40px;
+}
+
+.sfondo-nav{
+  background-color: limegreen;
+  padding: 10px;
+}
+
+.left{
+  margin: 20px 0px 40px;
+}
+
+.monopattino{
+  font-family: "georgia", times, serif;
+  color: white;
+}
+
+.distanze{
+  font-size: 15px;
+}
+
+.barra{
+  background-color: white;
+  border-radius: 5px;
+  height: 25px;
+  margin-top: 0;
+}
+
+.barra-1{
+  background-color: #f5b453;
+  width: 40%;
+}
+
+.barra-2{
+  background-color: #0d0;
+  width: 55%;
+}
+
+.barra-3{
+  background-color: #be4141;
+  width: 19%;
+}
